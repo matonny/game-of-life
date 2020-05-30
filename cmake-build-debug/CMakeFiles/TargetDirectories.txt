@@ -1,0 +1,3 @@
+/Users/mateusz/Desktop/C++/game-of-life/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mateusz/Desktop/C++/game-of-life/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mateusz/Desktop/C++/game-of-life/cmake-build-debug/CMakeFiles/game_of_life.dir
