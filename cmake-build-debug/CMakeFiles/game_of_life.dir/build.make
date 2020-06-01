@@ -60,15 +60,15 @@ include CMakeFiles/game_of_life.dir/flags.make
 CMakeFiles/game_of_life.dir/main.cpp.o: CMakeFiles/game_of_life.dir/flags.make
 CMakeFiles/game_of_life.dir/main.cpp.o: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Desktop/C++/game-of-life/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/game_of_life.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/game_of_life.dir/main.cpp.o -c /Users/mateusz/Desktop/C++/game-of-life/main.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/game_of_life.dir/main.cpp.o -c /Users/mateusz/Desktop/C++/game-of-life/main.cpp
 
 CMakeFiles/game_of_life.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/game_of_life.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Desktop/C++/game-of-life/main.cpp > CMakeFiles/game_of_life.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Desktop/C++/game-of-life/main.cpp > CMakeFiles/game_of_life.dir/main.cpp.i
 
 CMakeFiles/game_of_life.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/game_of_life.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Desktop/C++/game-of-life/main.cpp -o CMakeFiles/game_of_life.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Desktop/C++/game-of-life/main.cpp -o CMakeFiles/game_of_life.dir/main.cpp.s
 
 # Object files for target game_of_life
 game_of_life_OBJECTS = \
